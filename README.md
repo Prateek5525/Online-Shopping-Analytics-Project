@@ -65,9 +65,9 @@ After receiving feedback, the five dashboards have been consolidated into a comp
 **Sales Analysis:**
 The Sales Analysis Dashboard uncovers that office items dominate in terms of the number of sales, constituting 37% of the platform's total sales. Surprisingly, offline spending contributes significantly to the overall customer expenditure, meaning that in-store sales are still superior to online sales. Contrary to initial assumptions, the correlation between discounts and total sales or customer spending is not as substantial.
 
-## Info:
-This is group project that I did including two other members for my Data Intensive Computing course. 
-
 **Location Analysis:**
 The Location Analysis Dashboard highlights the outstanding performance of Chicago and California compared to New York, New Jersey, and Washington D.C. Interestingly, apparels emerge as the leading category in terms of total spending in Chicago and California, contrary to the fact that office items are the most frequently purchased.
 
+
+## Info:
+This is group project that I did including two other members for my Data Intensive Computing course. 
