@@ -59,7 +59,7 @@ After receiving feedback, the five dashboards have been consolidated into a comp
   - ['create_database.sql']: The Raw SQL query for constructing the relational database.
   - ['analyze_data.sql']: The Raw SQL query for extensive dataset exploration.
   - ['er-diagram.png']: This file provides a simple ER diagram depicting the relational database structure.
-  - ['online_shopping_analytics.twbx']: This Tableau file compromises all the data visualizations and interactive dashboards.
+  - ['online_shopping_analytics_dashboards']: This compromises of all the data visualizations and interactive dashboards.
     
 ## Conclusion
 **Sales Analysis:**
